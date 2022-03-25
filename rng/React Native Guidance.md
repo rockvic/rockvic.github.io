@@ -8,4 +8,4 @@
 
 以下是规划中所有教程的规划图，东西较多，敬请期待！
 
-![](../assets/images/rng/React%20Native%20Guidance.gif)
+![](../assets/images/rng/react-native-guidance.gif)
